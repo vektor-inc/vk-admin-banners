@@ -1,0 +1,58 @@
+[
+	{
+		"slug": "vk-block-patterns/vk-block-patterns.php",
+		"image_file": "vk-block-patterns_bnr_ja.jpg",
+		"link_url": "plugin-install.php?s=vk+block+patterns&tab=search&type=term",
+		"alt": "VK Block Patterns",
+		"language": "ja",
+		"admin_url": true
+	},
+	{
+		"slug": "vk-block-patterns/vk-block-patterns.php",
+		"image_file": "vk-block-patterns_bnr_en.jpg",
+		"link_url": "plugin-install.php?s=vk+block+patterns&tab=search&type=term",
+		"alt": "VK Block Patterns",
+		"language": "en",
+		"admin_url": true
+	},
+	{
+		"slug": "vk-link-target-controller/vk-link-target-controller.php",
+		"image_file": "vk-link-target-controller_bnr.jpg",
+		"link_url": "plugin-install.php?s=vk+link+target+controller&tab=search&type=term",
+		"alt": "VK Link Target Controller",
+		"language": "ja",
+		"admin_url": true
+	},
+	{
+		"slug": "vk-link-target-controller/vk-link-target-controller.php",
+		"image_file": "vk-link-target-controller_notxt_bnr.jpg",
+		"link_url": "plugin-install.php?s=vk+link+target+controller&tab=search&type=term",
+		"alt": "VK Link Target Controller",
+		"language": "en",
+		"admin_url": true
+	},
+	{
+		"slug": "vk-post-author-display/post-author-display.php",
+		"image_file": "post_author_display_bnr_ja.jpg.jpg",
+		"link_url": "plugin-install.php?s=vk+link+target+controller&tab=search&type=term",
+		"alt": "VK Aost Author Display",
+		"language": "ja",
+		"admin_url": true
+	},
+	{
+		"slug": "vk-post-author-display/post-author-display.php",
+		"image_file": "post_author_display_bnr_en.jpg",
+		"link_url": "plugin-install.php?s=vk+link+target+controller&tab=search&type=term",
+		"alt": "VK Aost Author Display",
+		"language": "en",
+		"admin_url": true
+	},
+	{
+		"slug": "vk-all-in-one-expansion-unit/vkExUnit.php",
+		"image_file": "ExUnit_bnr.png",
+		"link_url": "https://ex-unit.nagoya/ja/?rel=vkadmin",
+		"alt": "VK Aost Author Display",
+		"language": "VK All in One Expansion Unit",
+		"admin_url": false
+	}
+]
