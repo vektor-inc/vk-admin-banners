@@ -6,6 +6,8 @@ Banners of Vektor,Inc's Pruducts
 ### テーマの場合
 vk-theme-banners.json を編集します。
 
+|  属性名 | 説明 |
+| --- | --- |
 |  slug  | 【テーマのディレクトリ名】/style.css  |
 |  image_file  | バナーのファイル名  |
 |  link_url  | リンク先の URL  |
