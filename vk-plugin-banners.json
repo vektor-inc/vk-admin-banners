@@ -33,7 +33,7 @@
 	},
 	{
 		"slug": "vk-post-author-display/post-author-display.php",
-		"image_file": "post_author_display_bnr_ja.jpg.jpg",
+		"image_file": "post_author_display_bnr_ja.jpg",
 		"link_url": "plugin-install.php?s=vk+link+target+controller&tab=search&type=term",
 		"alt": "VK Aost Author Display",
 		"language": "ja",
