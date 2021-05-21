@@ -13,8 +13,7 @@ vk-theme-banners.json を編集します。
 |  link_url  | リンク先の URL  |
 |  alt  | ALT 属性のテキスト |
 |  language  | 言語 ( 現状 ja or en )  |
-|  admin_url  | true の場合管理画面の url に変換されます。<br>
-その際は link_url には ```theme-install.php?search=lightning```のように入力する必要があります。 |
+|  admin_url  | true の場合管理画面の url に変換されます。<br>その際は link_url には ```theme-install.php?search=lightning```のように入力する必要があります。 |
 
 例：リンク先を公式サイトにする場合
 
