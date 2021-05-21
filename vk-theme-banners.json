@@ -24,7 +24,6 @@
 		"admin_url": false
 	},
 	{
-		"type": "theme",
 		"slug": "bill-vektor/style.css",
 		"image_file": "billvektor_banner.png",
 		"link_url": "https://billvektor.com/?rel=vkadmin",
