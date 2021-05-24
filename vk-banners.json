@@ -1,5 +1,42 @@
 [
 	{
+		"type": "theme",
+		"slug": "lightning/style.css",
+		"image_file": "lightning_bnr_ja.jpg",
+		"link_url": "https://lightning.nagoya/ja/?rel=vkadmin",
+		"alt": "Lightning",
+		"language": "ja",
+		"admin_url": false
+	},
+	{
+		"type": "theme",
+		"slug": "lightning/style.css",
+		"image_file": "lightning_bnr_en.jpg",
+		"link_url": "https://lightning.nagoya/?rel=vkadmin",
+		"alt": "Lightning",
+		"language": "en",
+		"admin_url": false
+	},
+	{
+		"type": "theme",
+		"slug": "katawara/style.css",
+		"image_file": "katawara_bnr.jpg",
+		"link_url": "https://www.vektor-inc.co.jp/service/wordpress-theme/katawara/?rel=vkadmin",
+		"alt": "Katawara",
+		"language": "ja",
+		"admin_url": false
+	},
+	{
+		"type": "theme",
+		"slug": "bill-vektor/style.css",
+		"image_file": "billvektor_banner.png",
+		"link_url": "https://billvektor.com/?rel=vkadmin",
+		"alt": "見積書・請求書管理用WordPressテーマ Bill Vektor",
+		"language": "ja",
+		"admin_url": false
+	},
+	{
+		"type": "plugin",
 		"slug": "vk-block-patterns/vk-block-patterns.php",
 		"image_file": "vk-block-patterns_bnr_ja.jpg",
 		"link_url": "plugin-install.php?s=vk+block+patterns&tab=search&type=term",
@@ -8,6 +45,7 @@
 		"admin_url": true
 	},
 	{
+		"type": "plugin",
 		"slug": "vk-block-patterns/vk-block-patterns.php",
 		"image_file": "vk-block-patterns_bnr_en.jpg",
 		"link_url": "plugin-install.php?s=vk+block+patterns&tab=search&type=term",
@@ -16,6 +54,7 @@
 		"admin_url": true
 	},
 	{
+		"type": "plugin",
 		"slug": "vk-link-target-controller/vk-link-target-controller.php",
 		"image_file": "vk-link-target-controller_bnr.jpg",
 		"link_url": "plugin-install.php?s=vk+link+target+controller&tab=search&type=term",
@@ -24,6 +63,7 @@
 		"admin_url": true
 	},
 	{
+		"type": "plugin",
 		"slug": "vk-link-target-controller/vk-link-target-controller.php",
 		"image_file": "vk-link-target-controller_notxt_bnr.jpg",
 		"link_url": "plugin-install.php?s=vk+link+target+controller&tab=search&type=term",
@@ -32,6 +72,7 @@
 		"admin_url": true
 	},
 	{
+		"type": "plugin",
 		"slug": "vk-post-author-display/post-author-display.php",
 		"image_file": "post_author_display_bnr_ja.jpg",
 		"link_url": "plugin-install.php?s=vk+post+author+display&tab=search&type=term",
@@ -40,6 +81,7 @@
 		"admin_url": true
 	},
 	{
+		"type": "plugin",
 		"slug": "vk-post-author-display/post-author-display.php",
 		"image_file": "post_author_display_bnr_en.jpg",
 		"link_url": "plugin-install.php?s=vk+post+author+display&tab=search&type=term",
@@ -48,6 +90,7 @@
 		"admin_url": true
 	},
 	{
+		"type": "plugin",
 		"slug": "vk-all-in-one-expansion-unit/vkExUnit.php",
 		"image_file": "ExUnit_bnr.png",
 		"link_url": "https://ex-unit.nagoya/ja/?rel=vkadmin",

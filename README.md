@@ -2,12 +2,12 @@
 Banners of Vektor,Inc's Pruducts 
 
 ## バナーの追加方法
-
-### テーマの場合
-vk-theme-banners.json を編集します。
+vk-banners.json を編集します。
+### テーマを追加する場合
 
 |  属性名 | 説明 |
 | --- | --- |
+|  type  | theme  |
 |  slug  | 【テーマのディレクトリ名】/style.css  |
 |  image_file  | バナーのファイル名  |
 |  link_url  | リンク先の URL  |
@@ -19,6 +19,7 @@ vk-theme-banners.json を編集します。
 
 ```
 	{
+		"type": "theme",
 		"slug": "lightning/style.css",
 		"image_file": "lightning_bnr_ja.jpg",
 		"link_url": "https://lightning.nagoya/ja/?rel=vkadmin",
@@ -32,6 +33,7 @@ vk-theme-banners.json を編集します。
 
 ```
 	{
+		"type": "theme",
 		"slug": "lightning/style.css",
 		"image_file": "lightning_bnr_ja.jpg",
 		"link_url": "theme-install.php?search=lightning",
@@ -41,11 +43,11 @@ vk-theme-banners.json を編集します。
 	},
 ```
 
-### プラグインの場合
-vk-plugin-banners.json を編集します。
+### プラグインを追加する場合
 
 |  属性名 | 説明 |
 | --- | --- |
+|  type  | plugin  |
 |  slug  | 【プラグインのディレクトリ名】/【プラグイン本体のファイル名】   |
 |  image_file  | バナーのファイル名  |
 |  link_url  | リンク先の URL  |
@@ -58,6 +60,7 @@ vk-plugin-banners.json を編集します。
 
 ```
 	{
+		"type": "plugin",
 		"slug": "vk-all-in-one-expansion-unit/vkExUnit.php",
 		"image_file": "ExUnit_bnr.png",
 		"link_url": "https://ex-unit.nagoya/ja/?rel=vkadmin",
@@ -71,6 +74,7 @@ vk-plugin-banners.json を編集します。
 
 ```
 	{
+		"type": "plugin",
 		"slug": "vk-all-in-one-expansion-unit/vkExUnit.php",
 		"image_file": "ExUnit_bnr.png",
 		"link_url": "plugin-install.php?s=vk+all+in+one+expansion+unit&tab=search&type=term",
