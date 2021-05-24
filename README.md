@@ -1,5 +1,5 @@
 # vk-banners
-Banners of Vektor,Inc's Pruducts 
+Banners of Vektor,Inc's Pruducts
 
 ## バナーの追加方法
 
