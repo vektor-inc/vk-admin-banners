@@ -1,4 +1,4 @@
-# vk-banners
+# vk-admin-banners
 Banners of Vektor,Inc's Pruducts
 
 ## バナーの追加方法
