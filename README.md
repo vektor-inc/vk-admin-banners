@@ -4,7 +4,7 @@ Banners of Vektor,Inc's Pruducts
 ## バナーの追加方法
 
 1. 画像を images フォルダに置きます。
-1. vk-banners.json を編集します。（詳細は下記を参照）
+1. vk-admin-banners.json を編集します。（詳細は下記を参照）
 
 ### テーマを追加する場合
 
