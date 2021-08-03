@@ -3,7 +3,16 @@
 		"type": "theme",
 		"slug": "lightning/style.css",
 		"image_file": "lightning_bnr_ja.jpg",
-		"link_url": "https://lightning.nagoya/ja/?rel=vkadmin",
+		"link_url": "https://lightning.vektor-inc.co.jp/?rel=vkadmin",
+		"alt": "Lightning",
+		"language": "ja",
+		"admin_url": false
+	},
+	{
+		"type": "plugin",
+		"slug": "lightning-g3-vekuan/lightning-g3-vekuan.php",
+		"image_file": "ad_banner-VEKUAN_02.jpg",
+		"link_url": "https://vws.vektor-inc.co.jp/product/lightning-g3-vekuan-kit/?rel=vkadmin",
 		"alt": "Lightning",
 		"language": "ja",
 		"admin_url": false
