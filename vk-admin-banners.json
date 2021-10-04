@@ -1,5 +1,14 @@
 [
 	{
+		"type": "plugin",
+		"slug": "lightning-g3-pro-unit/lightning-g3-pro-unit.php",
+		"image_file": "lightning-g3-pro-unit-bnr.jpg",
+		"link_url": "https://lightning.vektor-inc.co.jp/lightning-g3-pro-unit/?rel=vkadmin",
+		"alt": "Lightning",
+		"language": "ja",
+		"admin_url": false
+	},
+	{
 		"type": "theme",
 		"slug": "lightning/style.css",
 		"image_file": "lightning_bnr_ja.jpg",
