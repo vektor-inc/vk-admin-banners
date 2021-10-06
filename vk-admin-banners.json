@@ -15,7 +15,8 @@
 		"link_url": "https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-filter-search/?rel=vkadmin",
 		"alt": "VK Filter Search",
 		"language": "ja",
-		"admin_url": false
+		"admin_url": false,
+		"include": "vk-filter-search-pro/vk-filter-search-pro.php"
 	},
 	{
 		"type": "plugin",
