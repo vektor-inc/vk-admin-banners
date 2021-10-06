@@ -33,7 +33,8 @@
 		"link_url": "https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-filter-search-pro/?rel=vkadmin",
 		"alt": "VK Filter Search Pro",
 		"language": "ja",
-		"admin_url": false
+		"admin_url": false,
+		"include": "vk-filter-search/vk-filter-search.php"
 	},
 	{
 		"type": "theme",
@@ -49,7 +50,7 @@
 		"slug": "lightning-g3-vekuan/lightning-g3-vekuan.php",
 		"image_file": "ad_banner-VEKUAN_02.jpg",
 		"link_url": "https://vws.vektor-inc.co.jp/product/lightning-g3-vekuan-kit/?rel=vkadmin",
-		"alt": "Lightning",
+		"alt": "Lightning G3 VEKUAN",
 		"language": "ja",
 		"admin_url": false
 	},
