@@ -17,6 +17,7 @@ Banners of Vektor,Inc's Pruducts
 |  alt  | ALT 属性のテキスト |
 |  language  | 言語 ( 現状 ja or en )  |
 |  admin_url  | true の場合管理画面の url に変換されます。<br>その際は link_url には URL の ```/wp-admin/``` までを削除した<br> ```theme-install.php?search=lightning``` <br>のような部分を入力する必要があります。 |
+|  include  | このプラグインの機能を内包するテーマ・プラグインの slug をカンマで区切って記述  |
 
 例：リンク先を公式サイトにする場合
 
