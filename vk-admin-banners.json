@@ -7,7 +7,7 @@
 		"alt": "Lightning G3 Pro Unit",
 		"language": "ja",
 		"admin_url": false,
-		"expansion-for": "lightning"
+		"active_theme": "lightning"
 	},
 	{
 		"type": "plugin",
@@ -64,7 +64,7 @@
 		"alt": "Lightning G3 VEKUAN",
 		"language": "ja",
 		"admin_url": false,
-		"expansion-for": "lightning"
+		"active_theme": "lightning"
 	},
 	{
 		"type": "plugin",
@@ -74,7 +74,7 @@
 		"alt": "Lightning G3 Evergreen",
 		"language": "ja",
 		"admin_url": false,
-		"expansion-for": "lightning"
+		"active_theme": "lightning"
 	},
 	{
 		"type": "theme",
