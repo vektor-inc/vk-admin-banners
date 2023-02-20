@@ -39,6 +39,15 @@
 		"admin_url": false
 	},
 	{
+		"type": "plugin",
+		"slug": "vk-filter-search-pro-global-edition/vk-filter-search-pro-global-edition.php",
+		"image_file": "ad_banner-vk-filter-search-pro-en.jpg",
+		"link_url": "https://vk-filter-search.com/?rel=vkadmin",
+		"alt": "VK Filter Search Pro Global Edition",
+		"language": "en",
+		"admin_url": false
+	},
+	{
 		"type": "theme",
 		"slug": "lightning/style.css",
 		"image_file": "lightning_bnr_ja.jpg",
