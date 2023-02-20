@@ -18,7 +18,6 @@ Banners of Vektor,Inc's Pruducts
 |  language  | 言語 ( 現状 ja or en )  |
 |  admin_url  | true の場合管理画面の url に変換されます。<br>その際は link_url には URL の ```/wp-admin/``` までを削除した<br> ```theme-install.php?search=lightning``` <br>のような部分を入力する必要があります。 |
 |  include  | このプラグインの機能を内包するテーマ・プラグインの slug をカンマで区切って記述  |
-|  active_theme  | この中のテーマが有効であるときに表示されます |
 
 例：リンク先を公式サイトにする場合
 
@@ -60,6 +59,7 @@ Banners of Vektor,Inc's Pruducts
 |  language  | 言語 ( 現状 ja or en )  |
 |  admin_url  | true の場合管理画面の url に変換されます。<br>その際は link_url には URL の ```/wp-admin/``` までを削除した<br> ```plugin-install.php?s=vk+all+in+one+expansion+unit&tab=search&type=term``` <br>のような部分を入力する必要があります。 |
 |  include  | このプラグインの機能を内包するテーマ・プラグインの slug をカンマで区切って記述  |
+|  active_theme  | テーマが有効なときのみ表示したい項目のテーマ名 （半角小文字の英数字） |
 
 
 例：リンク先を公式サイトにする場合
@@ -72,7 +72,7 @@ Banners of Vektor,Inc's Pruducts
 		"link_url": "https://ex-unit.nagoya/ja/?rel=vkadmin",
 		"alt": "VK All in One Expansion Unit",
 		"language": "ja",
-		"admin_url": false
+		"admin_url": false,
 	},
 ```
 
@@ -86,7 +86,7 @@ Banners of Vektor,Inc's Pruducts
 		"link_url": "plugin-install.php?s=vk+all+in+one+expansion+unit&tab=search&type=term",
 		"alt": "VK All in One Expansion Unit",
 		"language": "ja",
-		"admin_url": true
+		"admin_url": true,
 	},
 ```
 
