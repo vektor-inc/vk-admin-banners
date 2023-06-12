@@ -1,6 +1,26 @@
 [
 	{
 		"type": "plugin",
+		"slug": "vk-dynamic-if-block/vk-dynamic-if-block.php",
+		"image_file": "ad_banner-vk-dinamic-if-block-ja.jpg",
+		"link_url": "https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-dynamic-if-block/?rel=vkadmin",
+		"alt": "VK Dynamic If Block",
+		"language": "ja",
+		"admin_url": false,
+		"active_theme": "x-t9"
+	},
+	{
+		"type": "plugin",
+		"slug": "vk-dynamic-if-block/vk-dynamic-if-block.php",
+		"image_file": "ad_banner-vk-dinamic-if-block-en.jpg",
+		"link_url": "plugin-install.php?s=vk%2520dynamic%2520if&tab=search&type=term",
+		"alt": "VK Dynamic If Block",
+		"language": "en",
+		"admin_url": true,
+		"active_theme": "x-t9"
+	},
+	{
+		"type": "plugin",
 		"slug": "lightning-g3-pro-unit/lightning-g3-pro-unit.php",
 		"image_file": "lightning-g3-pro-unit-bnr.jpg",
 		"link_url": "https://lightning.vektor-inc.co.jp/lightning-g3-pro-unit/?rel=vkadmin",
