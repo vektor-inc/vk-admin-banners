@@ -13,7 +13,7 @@
 		"type": "plugin",
 		"slug": "vk-dynamic-if-block/vk-dynamic-if-block.php",
 		"image_file": "ad_banner-vk-dinamic-if-block-en.jpg",
-		"link_url": "plugin-install.php?s=vk%2520dynamic%2520if&tab=search&type=term",
+		"link_url": "plugin-install.php?s=vk+dynamic+if&tab=search&type=term",
 		"alt": "VK Dynamic If Block",
 		"language": "en",
 		"admin_url": true,
