@@ -1,6 +1,24 @@
 [
 	{
 		"type": "plugin",
+		"slug": "vk-ab-testing/vk-ab-testing.php",
+		"image_file": "ad_banner-vk-ab-testing-ja.jpg",
+		"link_url": "https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-ab-testing/?rel=vkadmin",
+		"alt": "VK AB Testing",
+		"language": "ja",
+		"admin_url": false
+	},
+	{
+		"type": "plugin",
+		"slug": "vk-ab-testing/vk-ab-testing.php",
+		"image_file": "ad_banner-vk-ab-testing-en.jpg",
+		"link_url": "https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-ab-testing/?rel=vkadmin",
+		"alt": "VK AB Testing",
+		"language": "en",
+		"admin_url": false
+	},
+	{
+		"type": "plugin",
 		"slug": "vk-dynamic-if-block/vk-dynamic-if-block.php",
 		"image_file": "ad_banner-vk-dinamic-if-block-ja.jpg",
 		"link_url": "https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-dynamic-if-block/?rel=vkadmin",
