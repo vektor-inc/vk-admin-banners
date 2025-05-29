@@ -95,26 +95,6 @@
 		"admin_url": false
 	},
 	{
-		"type": "plugin",
-		"slug": "lightning-g3-vekuan/lightning-g3-vekuan.php",
-		"image_file": "ad_banner-VEKUAN_02.jpg",
-		"link_url": "https://vws.vektor-inc.co.jp/product/lightning-g3-vekuan-kit/?rel=vkadmin",
-		"alt": "Lightning G3 VEKUAN",
-		"language": "ja",
-		"admin_url": false,
-		"active_theme": "lightning"
-	},
-	{
-		"type": "plugin",
-		"slug": "lightning-g3-evergreen/lightning-g3-evergreen.php",
-		"image_file": "ad_banner-evergreen-sale.jpg",
-		"link_url": "https://vws.vektor-inc.co.jp/product/lightning-g3-evergreen-kit/?rel=vkadmin",
-		"alt": "Lightning G3 Evergreen",
-		"language": "ja",
-		"admin_url": false,
-		"active_theme": "lightning"
-	},
-	{
 		"type": "theme",
 		"slug": "lightning/style.css",
 		"image_file": "lightning_bnr_en.jpg",
@@ -125,30 +105,12 @@
 	},
 	{
 		"type": "theme",
-		"slug": "katawara/style.css",
-		"image_file": "katawara_bnr.jpg",
-		"link_url": "https://www.vektor-inc.co.jp/service/wordpress-theme/katawara/?rel=vkadmin",
-		"alt": "Katawara",
-		"language": "ja",
-		"admin_url": false
-	},
-	{
-		"type": "theme",
 		"slug": "bill-vektor/style.css",
 		"image_file": "billvektor_banner.png",
 		"link_url": "https://billvektor.com/?rel=vkadmin",
 		"alt": "見積書・請求書管理用WordPressテーマ Bill Vektor",
 		"language": "ja",
 		"admin_url": false
-	},
-	{
-		"type": "plugin",
-		"slug": "vk-block-patterns/vk-block-patterns.php",
-		"image_file": "vk-block-patterns_bnr_ja.jpg",
-		"link_url": "plugin-install.php?s=vk+block+patterns&tab=search&type=term",
-		"alt": "VK Block Patterns",
-		"language": "ja",
-		"admin_url": true
 	},
 	{
 		"type": "plugin",
