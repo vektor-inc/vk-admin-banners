@@ -1,6 +1,15 @@
 [
 	{
 		"type": "plugin",
+		"slug": "vektor-passport/vektor-passport.php",
+		"image_file": "ad_banner-vektor-passport-ja.jpg",
+		"link_url": "https://vws.vektor-inc.co.jp/vektor-passport?rel=vkadmin",
+		"alt": "ベクトルパスポート",
+		"language": "ja",
+		"admin_url": false
+	},
+	{
+		"type": "plugin",
 		"slug": "vk-fullsite-installer/vk-fullsite-installer.php",
 		"image_file": "ad_banner-vk-fullsite-installer-ja.jpg",
 		"link_url": "https://vk-fullsite-installer.com/?rel=vkadmin",
@@ -10,10 +19,19 @@
 	},
 	{
 		"type": "plugin",
-		"slug": "vk-ab-testing/vk-ab-testing.php",
-		"image_file": "ad_banner-vk-ab-testing-ja.jpg",
-		"link_url": "https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-ab-testing/?rel=vkadmin",
-		"alt": "VK AB Testing",
+		"slug": "vk-booking-manager/vk-booking-manager.php",
+		"image_file": "ad_banner-vk-booking-manager-ja.jpg",
+		"link_url": "https://vk-booking-manager.com/?rel=vkadmin",
+		"alt": "VK Booking Manager",
+		"language": "ja",
+		"admin_url": false
+	},
+	{
+		"type": "plugin",
+		"slug": "vk-filter-search-pro/vk-filter-search-pro.php",
+		"image_file": "ad_banner-vk-filter-search-pro-ja.jpg",
+		"link_url": "https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-filter-search-pro/?rel=vkadmin",
+		"alt": "VK Filter Search Pro",
 		"language": "ja",
 		"admin_url": false
 	},
@@ -29,42 +47,12 @@
 	{
 		"type": "plugin",
 		"slug": "vk-dynamic-if-block/vk-dynamic-if-block.php",
-		"image_file": "ad_banner-vk-dinamic-if-block-ja.jpg",
-		"link_url": "https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-dynamic-if-block/?rel=vkadmin",
-		"alt": "VK Dynamic If Block",
-		"language": "ja",
-		"admin_url": false,
-		"active_theme": "x-t9"
-	},
-	{
-		"type": "plugin",
-		"slug": "vk-dynamic-if-block/vk-dynamic-if-block.php",
 		"image_file": "ad_banner-vk-dinamic-if-block-en.jpg",
 		"link_url": "plugin-install.php?s=vk+dynamic+if&tab=search&type=term",
 		"alt": "VK Dynamic If Block",
 		"language": "en",
 		"admin_url": true,
 		"active_theme": "x-t9"
-	},
-	{
-		"type": "plugin",
-		"slug": "lightning-g3-pro-unit/lightning-g3-pro-unit.php",
-		"image_file": "lightning-g3-pro-unit-bnr.jpg",
-		"link_url": "https://lightning.vektor-inc.co.jp/lightning-g3-pro-unit/?rel=vkadmin",
-		"alt": "Lightning G3 Pro Unit",
-		"language": "ja",
-		"admin_url": false,
-		"active_theme": "lightning"
-	},
-	{
-		"type": "plugin",
-		"slug": "vk-filter-search/vk-filter-search.php",
-		"image_file": "ad_banner-vk-filter-search-ja.jpg",
-		"link_url": "https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-filter-search/?rel=vkadmin",
-		"alt": "VK Filter Search",
-		"language": "ja",
-		"admin_url": false,
-		"include": "vk-filter-search-pro/vk-filter-search-pro.php"
 	},
 	{
 		"type": "plugin",
@@ -78,15 +66,6 @@
 	},
 	{
 		"type": "plugin",
-		"slug": "vk-filter-search-pro/vk-filter-search-pro.php",
-		"image_file": "ad_banner-vk-filter-search-pro-ja.jpg",
-		"link_url": "https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-filter-search-pro/?rel=vkadmin",
-		"alt": "VK Filter Search Pro",
-		"language": "ja",
-		"admin_url": false
-	},
-	{
-		"type": "plugin",
 		"slug": "vk-filter-search-pro-global-edition/vk-filter-search-pro-global-edition.php",
 		"image_file": "ad_banner-vk-filter-search-pro-en.jpg",
 		"link_url": "https://vk-filter-search.com/?rel=vkadmin",
@@ -97,28 +76,10 @@
 	{
 		"type": "theme",
 		"slug": "lightning/style.css",
-		"image_file": "lightning_bnr_ja.jpg",
-		"link_url": "https://lightning.vektor-inc.co.jp/?rel=vkadmin",
-		"alt": "Lightning",
-		"language": "ja",
-		"admin_url": false
-	},
-	{
-		"type": "theme",
-		"slug": "lightning/style.css",
 		"image_file": "lightning_bnr_en.jpg",
 		"link_url": "https://lightning.nagoya/?rel=vkadmin",
 		"alt": "Lightning",
 		"language": "en",
-		"admin_url": false
-	},
-	{
-		"type": "theme",
-		"slug": "bill-vektor/style.css",
-		"image_file": "billvektor_banner.png",
-		"link_url": "https://billvektor.com/?rel=vkadmin",
-		"alt": "見積書・請求書管理用WordPressテーマ Bill Vektor",
-		"language": "ja",
 		"admin_url": false
 	},
 	{
@@ -133,28 +94,10 @@
 	{
 		"type": "plugin",
 		"slug": "vk-link-target-controller/vk-link-target-controller.php",
-		"image_file": "vk-link-target-controller_bnr.jpg",
-		"link_url": "plugin-install.php?s=vk+link+target+controller&tab=search&type=term",
-		"alt": "VK Link Target Controller",
-		"language": "ja",
-		"admin_url": true
-	},
-	{
-		"type": "plugin",
-		"slug": "vk-link-target-controller/vk-link-target-controller.php",
 		"image_file": "vk-link-target-controller_notxt_bnr.jpg",
 		"link_url": "plugin-install.php?s=vk+link+target+controller&tab=search&type=term",
 		"alt": "VK Link Target Controller",
 		"language": "en",
-		"admin_url": true
-	},
-	{
-		"type": "plugin",
-		"slug": "vk-post-author-display/post-author-display.php",
-		"image_file": "post_author_display_bnr_ja.jpg",
-		"link_url": "plugin-install.php?s=vk+post+author+display&tab=search&type=term",
-		"alt": "VK Aost Author Display",
-		"language": "ja",
 		"admin_url": true
 	},
 	{
@@ -165,14 +108,5 @@
 		"alt": "VK Aost Author Display",
 		"language": "en",
 		"admin_url": true
-	},
-	{
-		"type": "plugin",
-		"slug": "vk-all-in-one-expansion-unit/vkExUnit.php",
-		"image_file": "ExUnit_bnr.png",
-		"link_url": "https://ex-unit.nagoya/ja/?rel=vkadmin",
-		"alt": "VK All in One Expansion Unit",
-		"language": "ja",
-		"admin_url": false
 	}
 ]
