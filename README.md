@@ -90,3 +90,9 @@ Banners of Vektor,Inc's Pruducts
 	},
 ```
 
+## ロゴ画像について
+
+images/vektor_logo-2020.png は、vk-admin が表示している Vektor,Inc. のロゴ画像です。
+
+1. vk-admin がこのファイル名を URL で直接参照しているため、ファイル名の変更や削除はしないでください。
+1. ロゴを更新するときは、同じファイル名のまま画像を差し替えます。
